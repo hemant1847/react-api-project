@@ -23,6 +23,6 @@ rating-container {
 }
 
 .rating-stars {
-  color: #ffc107; /* Yellow color for stars */
-  font-size: 24px; /* Adjust the font size as needed */
+  color: #ffc107; 
+  font-size: 24px; 
 }
